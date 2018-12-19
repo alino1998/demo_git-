@@ -1,0 +1,7 @@
+.bloc1_1_1:nth-child(2){
+    margin-left: 20px;
+    margin-right: 100px;
+}
+.bloc1_1_1:nth-child(2) h2{
+    text-align: center;
+}
